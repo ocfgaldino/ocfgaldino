@@ -1,16 +1,23 @@
-### Hi there 👋
+### Welcome! I'm Felippe!
 
-<!--
-**ocfgaldino/ocfgaldino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Oceanographer focused in Data Science and Data Engineering. I am currently working in the Brazylian Navy Hydrographic Center as a Physical Oceanographer and Data Engineer. I am also a Master's student in Meteorology (Federal University of Rio de Janeiro - UFRJ - Brazil).
 
-Here are some ideas to get you started:
+I have a long experience with programming (> 6 years) to process and analyze data. I started with MatLab but nowadays I use Python and R on a daily basis for work and projects. Besides these languages, I also have experience with Front-End Web Development to publish my personal projects, my website, and alo work related projects, mainly dashboards.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Main Programming Languages:**
+
+- Python
+- R
+- MatLab
+
+**Main Databases**:
+
+- Postgres (PostGIS)
+- MySQL
+- Google BigQuery
+
+**Experience with**:
+
+- Data Analysis;
+- Data Science;
+- Data Engineering.
