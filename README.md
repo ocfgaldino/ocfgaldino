@@ -60,6 +60,6 @@ I have a long experience with programming (> 6 years) to process and analyze dat
 <div align="center">
   <a href="https://github.com/duribeiro">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ocfgaldino&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocfgaldino&theme=dark&hide_border=false&&layout=compact&langs_count=10&&exclude_repo=ocfgaldino"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocfgaldino&theme=dark&hide_border=false&&layout=compact&langs_count=10&&exclude_repo=ocfgaldino.github.io"/>
   </a>
 </div>
