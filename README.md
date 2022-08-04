@@ -4,19 +4,9 @@ I am Oceanographer focused in Data Science and Data Engineering. I am currently 
 
 I have a long experience with programming (> 6 years) to process and analyze data. I started with MatLab but nowadays I use Python and R on a daily basis for work and projects. Besides these languages, I also have experience with Front-End Web Development to publish my personal projects, my website, and work related projects, mainly dashboards.   
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-**Main Programming Languages:**
 
-- Python
-- R
-- MatLab
 
-**Main Databases**:
-
-- Postgres (PostGIS)
-- MySQL
-- Google BigQuery
 
 **Experience with**:
 
@@ -24,6 +14,11 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
 - Data Science;
 - Data Engineering.
 
+<div> 
+  <a href = "mailto:ocfgaldino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felippe-galdino-silva-891754136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
 
 <div>
   <h1 align="center">Tech Tools</h1>
