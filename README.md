@@ -4,6 +4,8 @@ I am Oceanographer focused in Data Science and Data Engineering. I am currently 
 
 I have a long experience with programming (> 6 years) to process and analyze data. I started with MatLab but nowadays I use Python and R on a daily basis for work and projects. Besides these languages, I also have experience with Front-End Web Development to publish my personal projects, my website, and work related projects, mainly dashboards.   
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 **Main Programming Languages:**
 
 - Python
@@ -42,7 +44,8 @@ I have a long experience with programming (> 6 years) to process and analyze dat
       <h2 align="center">Data Engineering</h2>
   <div align="center"><br>
      <img align="center" alt="airflow"  height="50" width="60" src="https://www.svgrepo.com/show/353380/airflow.svg" />
-   <img align="center" alt="docker"  height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>
+     <img align="center" alt="docker"  height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>
+     <img align="center" alt="docker"  height="50" width="170" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/664px-Hadoop_logo.svg.png?20130221043911"/>
     </div><br>
   <h2 align="center">WebDev</h2>
   <!--   web -->
