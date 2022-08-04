@@ -34,7 +34,15 @@ I have a long experience with programming (> 6 years) to process and analyze dat
   <h2 align="center">Databases</h2>
   <div align="center"><br>
      <img align="center" alt="postgres"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-   <img align="center" alt="mysql"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="mysql"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+   <img align="center" alt="googlebq"  height="50" width="100" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"/>
+   <img align="center" alt="hbase"  height="50" width="100" src="https://cdn.worldvectorlogo.com/logos/apache-hbase-logo.svg"/>
+   <img align="center" alt="hive"  height="50" width="100" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"/>
+    </div><br>
+      <h2 align="center">Data Engineering</h2>
+  <div align="center"><br>
+     <img align="center" alt="airflow"  height="50" width="60" src="https://www.svgrepo.com/show/353380/airflow.svg" />
+   <img align="center" alt="docker"  height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>
     </div><br>
   <h2 align="center">WebDev</h2>
   <!--   web -->
