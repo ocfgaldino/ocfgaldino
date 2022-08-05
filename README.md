@@ -1,4 +1,7 @@
-### Welcome! I'm Felippe!
+<h1 align="center">Hi 👋, I'm Felippe...</h1>
+<h3 align="center">...I am a Data Professional!</h3>
+
+- :anchor: I’m currently working on **Brazilian Navy** as **Data Engineer**
 
 I am Oceanographer focused in Data Science and Data Engineering. I am currently working in the Brazylian Navy Hydrography Center as a Physical Oceanographer and Data Engineer. I am also a Master's student in Meteorology (Federal University of Rio de Janeiro - UFRJ - Brazil).
 
@@ -15,7 +18,7 @@ I have a long experience with programming (> 6 years) to process and analyze dat
 - Data Engineering.
 
 <div> 
-  <a href = "mailto:ocfgaldino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ocfgaldino@gmail.com"><img src="https://img.shields.io/badge/-ocfgaldino@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felippe-galdino-silva-891754136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
