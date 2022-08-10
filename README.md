@@ -12,6 +12,10 @@ I am Oceanographer focused in Data Science and Data Engineering. I am currently 
 
 I have a long experience with programming (> 6 years) to process and analyze data. I started with MatLab but nowadays I use Python and R on a daily basis for work and projects. Besides these languages, I also have experience with Front-End Web Development to publish my personal projects, my website, and work related projects, mainly dashboards.   
 
+<h3 align="left">
+<a href=https://ocfgaldino.github.io/#publications> :man_scientist: Academic Publications
+</a>
+</h3>
 
 
 <div> 
