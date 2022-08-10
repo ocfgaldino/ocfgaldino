@@ -92,5 +92,40 @@ I have a long experience with programming (> 6 years) to process and analyze dat
      </div></td>
   </tr>
  </table>
-  
-  
+ 
+ 
+ 
+  <h1 align="center">Main Projects</h1>
+     <table align="left">
+  <tr>
+    <td><h2 align="center">fsr</h2></td>
+    <td><h2 align="center"></h2></td>
+  </tr>
+  <tr>
+    <td> 
+  <div align="center">
+     <img align="center" alt="postgres"  height="250" width="350" src="https://ocfgaldino.github.io/images/fsr_example.png" />
+    </div></td>
+    <td>
+      <p>A R package to work with Fuzzy Systems and Spatial Data</p>
+    </td>
+  </tr>
+ </table>
+ </div>
+ <div>
+   <table align="left">
+  <tr>
+    <td><h2 align="center">inmetPy</h2></td>
+    <td><h2 align="center"></h2></td>
+  </tr>
+  <tr>
+    <td> 
+  <div align="center">
+     <img align="center" alt="postgres"  height="250" width="350" src="https://ocfgaldino.github.io/images/fsr_example.png" />
+    </div></td>
+    <td>
+      <p>A R package to work with Fuzzy Systems and Spatial Data</p>
+    </td>
+  </tr>
+ </table>
+  </div>
