@@ -26,6 +26,28 @@ I have a long experience with programming (> 6 years) to process and analyze dat
 
 <div>
   <h1 align="center">Tech Tools</h1>
+  
+  <table>
+  <tr>
+    <td><h2 align="center">Data Analysis || Data Science</h2></td>
+     <td><h2 align="center">Data Engineering</h2></td>
+  </tr>
+  <tr>
+    <td> 
+    <div align="center"><br>
+         <img align="center" alt="python"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+   <img align="center" alt="r-base"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+   <img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+     </div></td>
+    <td>  <div align="center"><br>
+     <img align="center" alt="airflow"  height="50" width="60" src="https://www.svgrepo.com/show/353380/airflow.svg" />
+     <img align="center" alt="docker"  height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>
+     <img align="center" alt="docker"  height="50" width="170" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/664px-Hadoop_logo.svg.png?20130221043911"/>
+    </div><br></td>
+  </tr>
+ </table>
+  
+  
   <h2 align="center">Data Analysis || Data Science</h2>
     <div align="center"><br>
          <img align="center" alt="python"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
