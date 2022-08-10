@@ -27,71 +27,70 @@ I have a long experience with programming (> 6 years) to process and analyze dat
 <div>
   <h1 align="center">Tech Tools</h1>
   
-  <table>
+  <table align="center">
   <tr>
     <td><h2 align="center">Data Analysis || Data Science</h2></td>
      <td><h2 align="center">Data Engineering</h2></td>
   </tr>
   <tr>
     <td> 
-    <div align="center"><br>
+    <div align="center">
          <img align="center" alt="python"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
    <img align="center" alt="r-base"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
    <img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
      </div></td>
-    <td>  <div align="center"><br>
+    <td height="auto" width="auto">  <div align="center">
      <img align="center" alt="airflow"  height="50" width="60" src="https://www.svgrepo.com/show/353380/airflow.svg" />
      <img align="center" alt="docker"  height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>
      <img align="center" alt="docker"  height="50" width="170" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/664px-Hadoop_logo.svg.png?20130221043911"/>
-    </div><br></td>
+    </div></td>
   </tr>
  </table>
   
   
-  <h2 align="center">Data Analysis || Data Science</h2>
-    <div align="center"><br>
-         <img align="center" alt="python"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-   <img align="center" alt="r-base"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-   <img align="center" alt="matlab"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-     </div><br>
-  <h2 align="center">Databases</h2>
-  <div align="center"><br>
+   <table align="center">
+  <tr>
+    <td><h2 align="center">Databases</h2></td>
+  </tr>
+  <tr>
+    <td> 
+  <div align="center">
      <img align="center" alt="postgres"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
    <img align="center" alt="mysql"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
    <img align="center" alt="googlebq"  height="50" width="100" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"/>
    <img align="center" alt="hbase"  height="50" width="100" src="https://cdn.worldvectorlogo.com/logos/apache-hbase-logo.svg"/>
    <img align="center" alt="hive"  height="50" width="100" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"/>
-    </div><br>
-      <h2 align="center">Data Engineering</h2>
-  <div align="center"><br>
-     <img align="center" alt="airflow"  height="50" width="60" src="https://www.svgrepo.com/show/353380/airflow.svg" />
-     <img align="center" alt="docker"  height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>
-     <img align="center" alt="docker"  height="50" width="170" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/664px-Hadoop_logo.svg.png?20130221043911"/>
-    </div><br>
-  <h2 align="center">WebDev</h2>
-  <!--   web -->
-  <div align="center"><br>
+    </div></td>
+  </tr>
+ </table>
+  
+  
+  <table align="center">
+  <tr>
+    <td><h2 align="center">WebDev</h2></td>
+     <td><h2 align="center">Systems</h2></td>
+     <td><h2 align="center">Cloud</h2></td>
+  </tr>
+  <tr>
+    <td> 
+  <div align="center">
    <img align="center" alt="html"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
    <img align="center" alt="css"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
    <img align="center" alt="javascript"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    </div><br>
-  <h2 align="center">Systems</h2>
-  <div align="center"><br>
+    </div></td>
+    <td> 
+  <div align="center">
     <img align="center" alt="linux"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="bash"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="git"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  </div><br>
-    <h2 align="center">Cloud</h2>
-  <div align="center"><br>
-   <img align="center" alt="heroku"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
-  <img align="center" alt="gcp"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
-  <img align="center" alt="aws"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  </div><br>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ocfgaldino">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ocfgaldino&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocfgaldino&theme=dark&hide_border=false&&layout=compact&langs_count=10&&exclude_repo=ocfgaldino.github.io"/>
-  </a>
-</div>
+  </div></td>
+  <td> 
+    <div align="center">
+      <img align="center" alt="heroku"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
+     <img align="center" alt="gcp"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+     <img align="center" alt="aws"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+     </div></td>
+  </tr>
+ </table>
+  
+  
