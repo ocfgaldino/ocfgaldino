@@ -2,13 +2,13 @@
 <h3 align="center">...I am a Data Professional!</h3>
 
 - :anchor: I’m currently working on **Brazilian Navy** as **Data Engineer**, in a **Research & Development** project focused in **Ocean Monitoring Systems**!
-- :ocean: I have a **Ocean / Environmental Sciences** academic background, with Bachelors in **Oceanography**.
-- :desktop_computer: I also have a Specialization/MBA in **Data Science**.
-- :tornado: I also doing a Masters in **Meteorology**!
+- :ocean: I have an **Ocean / Environmental Sciences** academic background, with Bachelors in **Oceanography**.
+- :desktop_computer: I have a Specialization/MBA in **Data Science**.
+- :tornado: I am also doing a Masters in **Meteorology**!
 - :bar_chart: Worked as **Data Analyst / BI** in a Digital Marketing & E-commerce Performance Consultancy
 
 
-I am Oceanographer focused in Data Science and Data Engineering. I am currently working in the Brazylian Navy Hydrography Center as a Physical Oceanographer and Data Engineer. I am also a Master's student in Meteorology (Federal University of Rio de Janeiro - UFRJ - Brazil).
+I am Oceanographer focused in Data Science and Data Engineering. I am currently working in the Brazylian Navy Hydrography Center as a Data Engineer and Physical Oceanographer. I am also a Master's student in Meteorology (Federal University of Rio de Janeiro - UFRJ - Brazil).
 
 I have a long experience with programming (> 6 years) to process and analyze data. I started with MatLab but nowadays I use Python and R on a daily basis for work and projects. Besides these languages, I also have experience with Front-End Web Development to publish my personal projects, my website, and work related projects, mainly dashboards.   
 
