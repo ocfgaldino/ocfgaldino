@@ -24,6 +24,10 @@ I have a long experience with programming (> 6 years) to process and analyze dat
 
 </div>
 
+
+ <hr>
+ <hr>
+ 
 <div>
   <h1 align="center">Tech Tools</h1>
   
@@ -93,18 +97,24 @@ I have a long experience with programming (> 6 years) to process and analyze dat
   </tr>
  </table>
  
- 
+ <hr>
+ <hr>
  
   <h1 align="center">Main Projects</h1>
+  
+  
+  <div>
      <table align="left">
   <tr>
-    <td width="30%"><h2 align="center">fsr</h2></td>
-    <td><h2 align="center"></h2></td>
+    <td width="30%"><h2 align="center">fsr - Fuzzy Spatial R</h2></td>
+    <td><h3 align="center">Software Development</h3></td>
   </tr>
   <tr>
     <td> 
   <div align="center">
+    <a href="www.google.com">
      <img align="center" alt="postgres"  height="250" width="350" src="https://ocfgaldino.github.io/images/fsr_example.png" />
+     </a>
     </div></td>
     <td width="30%">
       <p>A R package to work with Fuzzy Systems and Spatial Data. This project was developed as a result of my Data Science Specialization Course monography, and it was leaded by my supervisor Dr. Anderson Carniel, and done with my contribution and another course colleague. A conference paper was published using this package at the ACM SIGSPATIAL '21: Proceedings of the 29th International Conference on Advances in Geographic Information Systems.(you can check the paper <a href="https://dl.acm.org/doi/10.1145/3474717.3484255?cid=99658676659">here</a>). </p>
@@ -112,11 +122,13 @@ I have a long experience with programming (> 6 years) to process and analyze dat
   </tr>
  </table>
  </div>
+ 
+ 
  <div>
    <table align="left">
   <tr>
     <td width="10%"><h2 align="center">inmetPy</h2></td>
-    <td><h2 align="center"></h2></td>
+    <td><h3 align="center">Software Development</h3></td>
   </tr>
   <tr>
     <td> 
@@ -125,6 +137,25 @@ I have a long experience with programming (> 6 years) to process and analyze dat
     </div></td>
     <td width="10%">
       <p>A Python package to consume the API from the Brazilian National Institute of Meteorology (INMET). This package is focused in get data from the Meteorological Stations spread throughout Brazil (> 600 stations, automatic and manual). The package is published on Pipy (pip install inmetpy), but still missing an official documentation (in progress!)</p>
+    </td>
+  </tr>
+ </table>
+  </div>
+  
+  
+ <div>
+   <table align="left">
+  <tr>
+    <td width="10%"><h3 align="center">Abrolhos Buoy Dashboard</h3></td>
+    <td><h3 align="center">Data Visualization</h3></td>
+  </tr>
+  <tr>
+    <td> 
+  <div align="center">
+     <img align="center" alt="postgres"  height="200" width="300" src="https://github.com/ocfgaldino/ocfgaldino.github.io/blob/master/images/boia_abrolhos_site.gif" />
+    </div></td>
+    <td width="10%">
+      <p>This dashboard was created to monitoring the real-time data from a meteocean buoy (wave buoy) deployed near by Abrolhos Island, Bahia - Brazil. This buoy is one of many buoys of the project that I belong to in my currently work, at the Brazilian Hydrographic Center. This dash was created using Python and the awesome library Dash by Plotly. You can acess the website <a href="https://www.boia-abrolhos.herokuapp.com" target="_blank">here</a>.</p>
     </td>
   </tr>
  </table>
