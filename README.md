@@ -98,7 +98,7 @@ I have a long experience with programming (> 6 years) to process and analyze dat
   <h1 align="center">Main Projects</h1>
      <table align="left">
   <tr>
-    <td><h2 align="center">fsr</h2></td>
+    <td width="30%"><h2 align="center">fsr</h2></td>
     <td><h2 align="center"></h2></td>
   </tr>
   <tr>
@@ -106,8 +106,8 @@ I have a long experience with programming (> 6 years) to process and analyze dat
   <div align="center">
      <img align="center" alt="postgres"  height="250" width="350" src="https://ocfgaldino.github.io/images/fsr_example.png" />
     </div></td>
-    <td>
-      <p>A R package to work with Fuzzy Systems and Spatial Data</p>
+    <td width="30%">
+      <p>A R package to work with Fuzzy Systems and Spatial Data. This project was developed as a result of my Data Science Specialization Course monography, and it was leaded by my supervisor Dr. Anderson Carniel, and done with my contribution and another course colleague. A conference paper was published using this package at the ACM SIGSPATIAL '21: Proceedings of the 29th International Conference on Advances in Geographic Information Systems.(you can check the paper <a href="https://dl.acm.org/doi/10.1145/3474717.3484255?cid=99658676659">here</a>). </p>
     </td>
   </tr>
  </table>
@@ -115,16 +115,16 @@ I have a long experience with programming (> 6 years) to process and analyze dat
  <div>
    <table align="left">
   <tr>
-    <td><h2 align="center">inmetPy</h2></td>
+    <td width="10%"><h2 align="center">inmetPy</h2></td>
     <td><h2 align="center"></h2></td>
   </tr>
   <tr>
     <td> 
   <div align="center">
-     <img align="center" alt="postgres"  height="250" width="350" src="https://ocfgaldino.github.io/images/fsr_example.png" />
+     <img align="center" alt="postgres"  height="250" width="350" src="https://images.unsplash.com/photo-1594760467013-64ac2b80b7d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80" />
     </div></td>
-    <td>
-      <p>A R package to work with Fuzzy Systems and Spatial Data</p>
+    <td width="10%">
+      <p>A Python package to consume the API from the Brazilian National Institute of Meteorology (INMET). This package is focused in get data from the Meteorological Stations spread throughout Brazil (> 600 stations, automatic and manual). The package is published on Pipy (pip install inmetpy), but still missing an official documentation (in progress!)</p>
     </td>
   </tr>
  </table>
