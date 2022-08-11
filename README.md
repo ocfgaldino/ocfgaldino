@@ -153,7 +153,7 @@ I have a long experience with programming (> 6 years) to process and analyze dat
      <img align="center" alt="postgres"  height="200" width="300" src="https://github.com/ocfgaldino/ocfgaldino.github.io/blob/master/images/boia_abrolhos_site.gif" />
     </div></td>
     <td width="10%">
-      <p>This dashboard was created to monitoring the real-time data from a meteocean buoy (wave buoy) deployed near by Abrolhos Island, Bahia - Brazil. This buoy is one of many buoys of the project that I belong to in my currently work, at the Brazilian Hydrographic Center. This dash was created using Python and the awesome library Dash by Plotly. You can acess the website <a href="www.boia-abrolhos.herokuapp.com" target="_blank">here</a>.</p>
+      <p>This dashboard was created to monitoring the real-time data from a meteocean buoy (wave buoy) deployed near by Abrolhos Island, Bahia - Brazil. This buoy is one of many buoys of the project that I belong to in my currently work, at the Brazilian Hydrographic Center. This dash was created using Python and the awesome library Dash by Plotly. You can acess the website at www.boia-abrolhos.herokuapp.com.</p>
     </td>
   </tr>
  </table>
