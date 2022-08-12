@@ -21,9 +21,8 @@ I have a long experience with programming (> 6 years) to process and analyze dat
 <div> 
   <a href = "mailto:ocfgaldino@gmail.com"><img src="https://img.shields.io/badge/-ocfgaldino@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felippe-galdino-silva-891754136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <a href="https://orcid.org/0000-0003-2594-9733" target="_blank"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a> 
 </div>
-
 
  <hr>
  <hr>
