@@ -101,6 +101,24 @@ I have a long experience with programming (> 6 years) to process and analyze dat
  
   <h1 align="center">Main Projects</h1>
   
+  <div>
+     <table align="left">
+  <tr>
+    <td width="30%"><h2 align="center">Region Inference with fsr</h2></td>
+    <td><h3 align="center">Data Analysis</h3></td>
+  </tr>
+  <tr>
+    <td> 
+  <div align="center">
+     <img align="center" alt="postgres"  height="250" width="350" src="https://files.codeocean.com/files/verified/8ba9047a-d4a3-4950-8aff-f52b447db535_v1.0/results.23321024-f666-4ec9-b6a6-91a70bab775c/performance_optimal_qwi.png" />
+    </div></td>
+    <td width="30%">
+      <p>On this project, fuzzy spatial inference models were used to perform spacial inference queries with the goal to discover meaningful findinds from fuzzy spatial data. The project used the R package 'fsr' to obtain such inferences. The results were analyzed in R and published on the 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) (doi in progress). An adptated code for this analysis was published on Code Ocean. You can check <a href="https://codeocean.com/capsule/1662797/tree/v1">here</a>. </p>
+    </td>
+  </tr>
+ </table>
+ </div>
+  
   
   <div>
      <table align="left">
@@ -124,7 +142,7 @@ I have a long experience with programming (> 6 years) to process and analyze dat
  <div>
    <table align="left">
   <tr>
-    <td width="10%"><h2 align="center">inmetPy</h2></td>
+    <td width="5%"><h2 align="center">inmetPy</h2></td>
     <td><h3 align="center">Software Development</h3></td>
   </tr>
   <tr>
