@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felippe...</h1>
 <h3 align="center">...I am a Data Professional!</h3>
 
-- :anchor: I’m currently working on **Brazilian Navy** as **Data Engineer**, in a **Research & Development** project focused in **Ocean Monitoring Systems**!
+- :anchor: I’m currently working at the **Brazilian Navy** as **Data Engineer**, in a **Research & Development** project focused in **Ocean Monitoring Systems**!
 - :ocean: I have an **Ocean / Environmental Sciences** academic background, with Bachelors in **Oceanography**.
 - :desktop_computer: I have a Specialization/MBA in **Data Science**.
 - :tornado: I am also doing a Masters in **Meteorology**!
