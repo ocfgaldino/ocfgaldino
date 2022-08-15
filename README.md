@@ -156,6 +156,7 @@ I have a long experience with programming (> 6 years) to process and analyze dat
     </div></td>
     <td width="10%">
       <p>A Python package to consume the API from the Brazilian National Institute of Meteorology (INMET). This package is focused in get data from the Meteorological Stations spread throughout Brazil (> 600 stations, automatic and manual). The package is published on Pipy (pip install inmetpy), but still missing an official documentation (in progress!)</p>
+      <p> <a href="https://pypi.org/project/inmetpy/">Official Pipy package page</a></p>
     </td>
   </tr>
  </table>
