@@ -99,10 +99,20 @@ I have a long experience with programming (> 6 years) to process and analyze dat
      </div></td>
   </tr>
  </table>
- 
+
  <hr>
  <hr>
+
+
+<a href="https://github.com/ocfgaldino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ocfgaldino&show_icons=true&theme=dark" />
+</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocfgaldino&layout=compact&card_width=450&hide=js,html,css,scss,jq,javascript,jupyter%20notebook&theme=dark" />
  
+ <br>
+ <hr>
+ <hr>
+ <br>
   <h1 align="center">Main Projects</h1>
   
   <div>
@@ -154,15 +164,19 @@ I have a long experience with programming (> 6 years) to process and analyze dat
   <div align="center">
      <img align="center" alt="postgres"  height="250" width="350" src="https://images.unsplash.com/photo-1594760467013-64ac2b80b7d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80" />
     </div></td>
-    <td width="10%">
-      <p>A Python package to consume the API from the Brazilian National Institute of Meteorology (INMET). This package is focused in get data from the Meteorological Stations spread throughout Brazil (> 600 stations, automatic and manual). The package is published on Pipy (pip install inmetpy), but still missing an official documentation (in progress!)</p>
+    <td width="10%"  align="center">
+      <p align="left">A Python package to consume the API from the Brazilian National Institute of Meteorology (INMET). This package is focused in get data from the Meteorological Stations spread throughout Brazil (> 600 stations, automatic and manual). The package is published on Pipy (pip install inmetpy), but still missing an official documentation (in progress!)</p>
       <p> <a href="https://pypi.org/project/inmetpy/">Official Pipy package page</a></p>
+      <a href="https://github.com/ocfgaldino/inmetpy">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ocfgaldino&repo=inmetpy&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+      </a>
     </td>
   </tr>
  </table>
   </div>
   
-  
+
+---  
  <div>
    <table align="left">
   <tr>
@@ -180,3 +194,5 @@ I have a long experience with programming (> 6 years) to process and analyze dat
   </tr>
  </table>
   </div>
+
+
