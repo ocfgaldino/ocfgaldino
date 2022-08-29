@@ -103,11 +103,15 @@ I have a long experience with programming (> 6 years) to process and analyze dat
  <hr>
  <hr>
 
-
+<div align="center">
 <a href="https://github.com/ocfgaldino">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ocfgaldino&show_icons=true&theme=dark" />
 </a>
+</div>
+
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocfgaldino&layout=compact&card_width=450&hide=js,html,css,scss,jq,javascript,jupyter%20notebook&theme=dark" />
+ </div>
  
  <br>
  <hr>
