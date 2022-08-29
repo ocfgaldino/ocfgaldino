@@ -190,7 +190,7 @@ I have a long experience with programming (> 6 years) to process and analyze dat
  <div>
    <table align="left">
   <tr>
-    <td width="10%"><h3 align="center">Abrolhos Buoy Dashboard</h3></td>
+    <td width="5%"><h3 align="center">Abrolhos Buoy Dashboard</h3></td>
     <td><h3 align="center">Data Visualization</h3></td>
   </tr>
   <tr>
@@ -198,7 +198,7 @@ I have a long experience with programming (> 6 years) to process and analyze dat
   <div align="center">
      <img align="center" alt="postgres"  height="200" width="300" src="https://github.com/ocfgaldino/ocfgaldino.github.io/blob/master/images/boia_abrolhos_site.gif" />
     </div></td>
-    <td width="10%">
+    <td width="10%" align="center">
       <p>This dashboard was created to monitoring the real-time data from a meteocean buoy (wave buoy) deployed near by Abrolhos Island, Bahia - Brazil. This buoy is one of many buoys of the project that I belong to in my currently work, at the Brazilian Hydrographic Center. This dash was created using Python and the awesome library Dash by Plotly. You can acess the website at <a href="http://boia-abrolhos.herokuapp.com">here</a>.</p>
     </td>
   </tr>
