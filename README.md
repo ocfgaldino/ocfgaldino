@@ -141,7 +141,7 @@ I have a long experience with programming (> 6 years) to process and analyze dat
   <div>
      <table align="left">
   <tr>
-    <td width="30%"><h2 align="center">fsr - Fuzzy Spatial R</h2></td>
+    <td width="5%"><h2 align="center">fsr - Fuzzy Spatial R</h2></td>
     <td><h3 align="center">Software Development</h3></td>
   </tr>
   <tr>
@@ -149,8 +149,11 @@ I have a long experience with programming (> 6 years) to process and analyze dat
   <div align="center">
      <img align="center" alt="postgres"  height="250" width="350" src="https://ocfgaldino.github.io/images/fsr_example.png" />
     </div></td>
-    <td width="30%">
-      <p>A R package to work with Fuzzy Systems and Spatial Data. This project was developed as a result of my Data Science Specialization Course monography, and it was leaded by my supervisor Dr. Anderson Carniel, and done with my contribution and another course colleague. A conference paper was published using this package at the ACM SIGSPATIAL '21: Proceedings of the 29th International Conference on Advances in Geographic Information Systems.(you can check the paper <a href="https://dl.acm.org/doi/10.1145/3474717.3484255?cid=99658676659">here</a>). </p>
+    <td width="10%" align="center">
+      <p align="left">A R package to work with Fuzzy Systems and Spatial Data. This project was developed as a result of my Data Science Specialization Course monography, and it was leaded by my supervisor Dr. Anderson Carniel, and done with my contribution and another course colleague. A conference paper was published using this package at the ACM SIGSPATIAL '21: Proceedings of the 29th International Conference on Advances in Geographic Information Systems.(you can check the paper <a href="https://dl.acm.org/doi/10.1145/3474717.3484255?cid=99658676659">here</a>). </p>
+      <a href="https://github.com/ocfgaldino/fsr">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ocfgaldino&repo=fsr&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+      </a>
     </td>
   </tr>
  </table>
